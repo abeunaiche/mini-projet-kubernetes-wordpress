@@ -1,0 +1,11 @@
+resources:
+  - wordpress-namespace.yml
+  - wordpress-secret.yml
+  - wordpress-service-nodeport.yml
+  - mysql-service-cluster-ip.yml
+  - wordpress-deployment.yml
+  - mysql-deployment.yml
+  - wordpress-pv.yml
+  - wordpress-pvc.yml
+  - mysql-pv.yml
+  - mysql-pvc.yml
